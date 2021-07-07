@@ -1,8 +1,10 @@
 import os
 
 links={
-    "google":"https://www.google.com/",
-    "resume":"https://drive.google.com/file/d/1CLE2FoEKN-VKNXtBQAnldLLd86bpEKRl/view?usp=sharing"
+    "resume":"https://drive.google.com/file/d/1CLE2FoEKN-VKNXtBQAnldLLd86bpEKRl/view?usp=sharing",
+    "meet":"https://meet.google.com/sac-kfod-ipt",
+    "linkedin":"https://www.linkedin.com/in/haydencordeiro/",
+    "github":"https://github.com/haydencordeiro"
 }
 
 
