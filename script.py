@@ -2,7 +2,7 @@ import os
 
 links={
     "google":"https://www.google.com/",
-    "resume":"https://resume.hayden.co.in/"
+    "resume":"https://drive.google.com/file/d/1KqJw6-fQX2fGhIE97rqgYf6cwiv7Ejrg/view?usp=sharing"
 }
 
 
