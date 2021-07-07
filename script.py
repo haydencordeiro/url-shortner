@@ -2,7 +2,7 @@ import os
 
 links={
     "google":"https://www.google.com/",
-    "resume":"https://drive.google.com/file/d/1KqJw6-fQX2fGhIE97rqgYf6cwiv7Ejrg/view?usp=sharing"
+    "resume":"https://drive.google.com/file/d/1CLE2FoEKN-VKNXtBQAnldLLd86bpEKRl/view?usp=sharing"
 }
 
 
