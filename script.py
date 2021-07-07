@@ -1,7 +1,8 @@
 import os
 
 links={
-    "google":"google.com"
+    "google":"google.com",
+    "resume":"resume.hayden.co.in"
 }
 
 
