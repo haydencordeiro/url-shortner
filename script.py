@@ -4,7 +4,9 @@ links={
     "resume":"https://drive.google.com/file/d/1CLE2FoEKN-VKNXtBQAnldLLd86bpEKRl/view?usp=sharing",
     "meet":"https://meet.google.com/sac-kfod-ipt",
     "linkedin":"https://www.linkedin.com/in/haydencordeiro/",
-    "github":"https://github.com/haydencordeiro"
+    "github":"https://github.com/haydencordeiro",
+    "marksheets":"https://drive.google.com/file/d/1A5Tcx7VgctUiQBkL-HqfJi1WjEm4N9p9/view",
+    "adharpanbirth":"https://drive.google.com/file/d/1A0rVg88S7ynZAkuOpx6GU4gp46_cB6pj/view",
 }
 
 
