@@ -7,6 +7,10 @@ links={
     "github":"https://github.com/haydencordeiro",
     "marksheets":"https://drive.google.com/file/d/1A1NP0Xd0sWpnIBZtvLbMHG9M9Esxy-Kn/view?usp=sharing",
     "adharpanbirth":"https://drive.google.com/file/d/1sz1-alDLg6w6JeCylwSFR_MT5xDyrVEd/view?usp=sharing",
+    "pinelabs":"https://drive.google.com/file/d/1qb4B0LaH26OoS26k_7da5XcydmCOlktM/view?usp=sharing",
+    "nss":"https://drive.google.com/file/d/116l58Woj2uwf8ARL7u7yN0BwKA4dR2D9/view?usp=sharing",
+    "tpc":"https://drive.google.com/file/d/1wg6CSQMSbBcIByR1RKA3XM_P4Yaj6NmX/view?usp=sharing",
+    "yif":"https://drive.google.com/file/d/1qmw0kzT3zaDIO-VbdO80U4PbMT5GvM9m/view?usp=sharing"
 }
 
 
