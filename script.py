@@ -10,7 +10,9 @@ links={
     "pinelabs":"https://drive.google.com/file/d/1qb4B0LaH26OoS26k_7da5XcydmCOlktM/view?usp=sharing",
     "nss":"https://drive.google.com/file/d/116l58Woj2uwf8ARL7u7yN0BwKA4dR2D9/view?usp=sharing",
     "tpc":"https://drive.google.com/file/d/1wg6CSQMSbBcIByR1RKA3XM_P4Yaj6NmX/view?usp=sharing",
-    "yif":"https://drive.google.com/file/d/1qmw0kzT3zaDIO-VbdO80U4PbMT5GvM9m/view?usp=sharing"
+    "yif":"https://drive.google.com/file/d/1qmw0kzT3zaDIO-VbdO80U4PbMT5GvM9m/view?usp=sharing",
+    "teknack2021":"https://drive.google.com/file/d/1M5l1H28-eCANaCmfDHKw_zz9jKE_1fPS/view?usp=sharing",
+    "teknack2020":"https://drive.google.com/file/d/1_h0LNVKDclN4B73DllhZqRlVS_iTnE20/view?usp=sharing"
 }
 
 
