@@ -1,7 +1,7 @@
 import os
 
 links={
-    "resume":"https://drive.google.com/file/d/1Sohx0qy4tHLIrBEXZ8vL7mi-Q0-5Cej4/view?usp=sharing",
+    "resume":"https://drive.google.com/file/d/1Rjd07Nazmr3-Je-kKLuH0X0ICTjbudtN/view?usp=sharing",
     "meet":"https://meet.google.com/sac-kfod-ipt",
     "linkedin":"https://www.linkedin.com/in/haydencordeiro/",
     "github":"https://github.com/haydencordeiro",
