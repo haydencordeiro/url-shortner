@@ -39,7 +39,7 @@ def createFileContent(url):
     '''.format(url)
 
 for k,v in links.items():
-    if k not in ["assdf"]:
+    if k not in ["assdf","404"]:
         print(k)
         f = open(f"{k}.html", "w")
         f.write(createFileContent(v))
