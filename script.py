@@ -22,7 +22,13 @@ links={
 
 
 def createFileContent(name,url):
-    analytics="""    <!DOCTYPE html><html lang="en"><head> <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1TDP7H5C6"></script>   <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('config', 'G-Y1TDP7H5C6'); </script>"""
+    analytics="""    <!DOCTYPE html>
+    <html lang="en">
+    <head> 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1TDP7H5C6">
+    </script>   
+    <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('config', 'G-Y1TDP7H5C6'); 
+    </script>"""
     
     return analytics+'''
 
