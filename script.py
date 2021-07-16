@@ -17,7 +17,8 @@ links={
     "assdf":"https://us02web.zoom.us/j/7487113416?pwd=NXdUYVpXdGdnY3lMbkhHZjFyYm5vZz09",
     "assdfrec":"https://mega.nz/folder/bKBEBDKR#7-I6nZdMl9xzzjkYrZVH3g",
     "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09",
-    "csl":"https://us04web.zoom.us/j/5434127356?pwd=eDBCaDRZbHdoaDRteHo2b1V5djFYdz09"
+    "csl":"https://us04web.zoom.us/j/5434127356?pwd=eDBCaDRZbHdoaDRteHo2b1V5djFYdz09",
+    "sem7":"https://mega.nz/folder/PawUALSY#XudA6PFfm34RqRYavnz-yg"
 }
 
 
