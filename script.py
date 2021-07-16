@@ -20,17 +20,16 @@ links={
 }
 
 
-def createFileContent(url):
+def createFileContent(name,url):
+    analytics="""    <!DOCTYPE html><html lang="en"><head> <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1TDP7H5C6"></script>   <script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('config', 'G-Y1TDP7H5C6'); </script>"""
     
-    return '''
-    <!DOCTYPE html>
-    <html lang="en">
-    <head>
+    return analytics+'''
+
 
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Redirecting</title>
+        <title>Redirecting to {}</title>
     <script>
         window.location.href="{}"
     </script>
@@ -39,13 +38,13 @@ def createFileContent(url):
         
     </body>
     </html>
-    '''.format(url)
+    '''.format(name,url)
 
 for k,v in links.items():
     if k not in ["assdf","404"]:
         print(k)
         f = open(f"{k}.html", "w")
-        f.write(createFileContent(v))
+        f.write(createFileContent(k,v))
         f.close()
 
 os.system("git add .")
@@ -54,3 +53,4 @@ os.system("git push -f")
 
 
 
+    
