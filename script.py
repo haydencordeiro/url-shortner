@@ -15,6 +15,7 @@ links={
     "teknack2020":"https://drive.google.com/file/d/1_h0LNVKDclN4B73DllhZqRlVS_iTnE20/view?usp=sharing",
     "dsip":"https://meet.google.com/obk-kjzx-ago",
     "assdf":"https://us02web.zoom.us/j/7487113416?pwd=NXdUYVpXdGdnY3lMbkhHZjFyYm5vZz09",
+    "assdfrec":"https://mega.nz/folder/bKBEBDKR#7-I6nZdMl9xzzjkYrZVH3g",
     "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09"
 }
 
