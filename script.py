@@ -38,7 +38,7 @@ def createFileContent(name,url):
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Redirecting to {}</title>
     <script>
-        window.location.href="{}"
+        "{}"
     </script>
     </head>
     <body>
