@@ -14,7 +14,8 @@ links={
     "teknack2021":"https://drive.google.com/file/d/1M5l1H28-eCANaCmfDHKw_zz9jKE_1fPS/view?usp=sharing",
     "teknack2020":"https://drive.google.com/file/d/1_h0LNVKDclN4B73DllhZqRlVS_iTnE20/view?usp=sharing",
     "dsip":"https://meet.google.com/obk-kjzx-ago",
-    "assdf":"https://us02web.zoom.us/j/7487113416?pwd=NXdUYVpXdGdnY3lMbkhHZjFyYm5vZz09"
+    "assdf":"https://us02web.zoom.us/j/7487113416?pwd=NXdUYVpXdGdnY3lMbkhHZjFyYm5vZz09",
+    "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09"
 }
 
 
@@ -48,4 +49,6 @@ for k,v in links.items():
 os.system("git add .")
 os.system('git commit -m "updated links"')
 os.system("git push -f")
+
+
 
