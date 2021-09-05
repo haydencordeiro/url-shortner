@@ -20,7 +20,9 @@ links={
     "csl":"https://us04web.zoom.us/j/5434127356?pwd=eDBCaDRZbHdoaDRteHo2b1V5djFYdz09",
     "sem7":"https://mega.nz/folder/PawUALSY#XudA6PFfm34RqRYavnz-yg",
     "sem72":"https://drive.google.com/drive/folders/1MkhH6xJ3ug_Fo7cKsFL-WECCBAVhgEVQ",
-    "zenscape":"https://play.google.com/store/apps/details?id=com.Teknack.Zenscape&hl=en_IN&gl=US"
+    "zenscape":"https://play.google.com/store/apps/details?id=com.Teknack.Zenscape&hl=en_IN&gl=US",
+    "gre":"https://mega.nz/folder/6bRCVZyK#fJ0wI9IUUP2p3Ypgtsmcdg",
+    "ielts":"https://mega.nz/folder/DfIgkDLA#7st_w2l6QKSiyj8m1Zi6JQ"
 
 }
 
