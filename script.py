@@ -15,7 +15,8 @@ links={
     "gre":"https://mega.nz/folder/6bRCVZyK#fJ0wI9IUUP2p3Ypgtsmcdg",
     "ielts":"https://mega.nz/folder/DfIgkDLA#7st_w2l6QKSiyj8m1Zi6JQ",
     "meet":"https://meet.google.com/sac-kfod-ipt",
-    "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09"
+    "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09",
+    "ruvin":"https://meet.google.com/jbz-agyh-oym"
 
 }
 
