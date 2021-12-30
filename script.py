@@ -8,7 +8,7 @@ links={
     "vaccine":"https://drive.google.com/file/d/1m_Vjm2RYgU3Cw6LUJvvlB2ZN-TQV2Dxl/view?usp=sharing",
     "certificates":"https://drive.google.com/drive/folders/1w0mwb4AjFmX9Vk-_lQLk_F1lB1kBkPzC?usp=sharing",
     "marksheets":"https://drive.google.com/file/d/1A1NP0Xd0sWpnIBZtvLbMHG9M9Esxy-Kn/view?usp=sharing",
-    "adharpanbirth":"https://drive.google.com/file/d/1sz1-alDLg6w6JeCylwSFR_MT5xDyrVEd/view?usp=sharing",
+    "aadharpanbirth":"https://drive.google.com/file/d/1sz1-alDLg6w6JeCylwSFR_MT5xDyrVEd/view?usp=sharing",
     "assdfrec":"https://mega.nz/folder/bKBEBDKR#7-I6nZdMl9xzzjkYrZVH3g",
     "sem7":"https://mega.nz/folder/PawUALSY#XudA6PFfm34RqRYavnz-yg",
     "sem72":"https://drive.google.com/drive/folders/1MkhH6xJ3ug_Fo7cKsFL-WECCBAVhgEVQ",
