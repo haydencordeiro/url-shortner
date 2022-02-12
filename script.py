@@ -18,7 +18,8 @@ links={
     "meet":"https://meet.google.com/sac-kfod-ipt",
     "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09",
     "ruvin":"https://meet.google.com/jbz-agyh-oym",
-    "jivin":"https://meet.google.com/kgg-nyxj-gyb"
+    "jivin":"https://meet.google.com/kgg-nyxj-gyb",
+    "comps":"https://www.appsheet.com/start/c3eb0069-1b16-4590-8b4b-68f06960fde1"
 
 }
 
