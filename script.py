@@ -19,7 +19,8 @@ links={
     "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09",
     "ruvin":"https://meet.google.com/jbz-agyh-oym",
     "jivin":"https://meet.google.com/kgg-nyxj-gyb",
-    "comps":"https://www.appsheet.com/start/c3eb0069-1b16-4590-8b4b-68f06960fde1"
+    "comps":"https://www.appsheet.com/start/c3eb0069-1b16-4590-8b4b-68f06960fde1",
+    "dc":"https://docs.google.com/document/d/1ramBKCWW8Y8RnIO57yMoF8qQq2JxUhGyqE4_GW7E684/edit?usp=drivesdk"
 
 }
 
