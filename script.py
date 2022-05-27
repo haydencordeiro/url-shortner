@@ -20,7 +20,9 @@ links={
     "ruvin":"https://meet.google.com/jbz-agyh-oym",
     "jivin":"https://meet.google.com/kgg-nyxj-gyb",
     "comps":"https://www.appsheet.com/start/c3eb0069-1b16-4590-8b4b-68f06960fde1",
-    "dc":"https://docs.google.com/document/d/1ramBKCWW8Y8RnIO57yMoF8qQq2JxUhGyqE4_GW7E684/edit?usp=drivesdk"
+    "dc":"https://docs.google.com/document/d/1ramBKCWW8Y8RnIO57yMoF8qQq2JxUhGyqE4_GW7E684/edit?usp=drivesdk",
+    "transmission":"http://192.168.0.109:9091/transmission/web/",
+    "nas":"http://192.168.0.102/ui/plugins",
 
 }
 
