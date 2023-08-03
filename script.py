@@ -23,41 +23,17 @@ links={
     "dc":"https://docs.google.com/document/d/1ramBKCWW8Y8RnIO57yMoF8qQq2JxUhGyqE4_GW7E684/edit?usp=drivesdk",
     "transmission":"http://192.168.0.109:9091/transmission/web/",
     "nas":"http://192.168.0.102/ui/plugins",
+    "whatsapp:: "https://wa.me/917039964659"
 
 }
 
 
 def createFileContent(name,url):
     analytics=""" 
-        <!DOCTYPE html>
-    <html lang="en">
-    <head>
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y1TDP7H5C6"></script>
-        <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
-    
-        gtag('config', 'G-Y1TDP7H5C6');
-        </script>
-    
     """
     
     return analytics+'''
-
- 
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Redirecting to {}</title>
-    <script>
-        window.location.href="{}"
-    </script>
-    </head>
-    <body>
-        
-    </body>
-    </html>
+<meta charset=UTF-8><meta content="IE=edge"http-equiv=X-UA-Compatible><meta content="width=device-width,initial-scale=1"name=viewport><title>Redirecting to {}</title><script>window.location.href="{}"</script>
     '''.format(name,url)
 
 for k,v in links.items():
