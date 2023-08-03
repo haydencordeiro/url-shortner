@@ -23,7 +23,7 @@ links={
     "dc":"https://docs.google.com/document/d/1ramBKCWW8Y8RnIO57yMoF8qQq2JxUhGyqE4_GW7E684/edit?usp=drivesdk",
     "transmission":"http://192.168.0.109:9091/transmission/web/",
     "nas":"http://192.168.0.102/ui/plugins",
-    "whatsapp:: "https://wa.me/917039964659"
+    "whatsapp: "https://wa.me/917039964659"
 
 }
 
