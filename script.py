@@ -17,7 +17,8 @@ links={
     "zoom":"https://us04web.zoom.us/j/7661382898?pwd=Z01xa05kcE9OR2ZVKzFEUDZZWWFXZz09",
     "ruvin":"https://meet.google.com/jbz-agyh-oym",
     "jivin":"https://meet.google.com/kgg-nyxj-gyb",
-    "whatsapp": "https://wa.me/917039964659"
+    "whatsapp": "https://wa.me/12269619745",
+    "public": "https://drive.google.com/drive/folders/15FUesxqZNSyVHQbj8snng0Pm_0sSx8y8?usp=sharing"
 
 }
 
