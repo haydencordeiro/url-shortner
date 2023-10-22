@@ -48,8 +48,8 @@
       var weight2 = document.getElementById('weight2').value;
 
       // Calculate total cost for each product
-      var totalCost1 = price1 * weight1;
-      var totalCost2 = price2 * weight2;
+      var totalCost1 = price1 / weight1;
+      var totalCost2 = price2 / weight2;
 
       // Determine which product is cheaper
       var cheaperProduct = totalCost1 < totalCost2 ? 'Product 1' : 'Product 2';
